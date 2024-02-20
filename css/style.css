@@ -1,0 +1,52 @@
+body{
+    background: linear-gradient(rgb(9, 87, 181), rgb(29, 55, 110), rgb(18, 116, 155))
+    
+    }
+.nombre{
+height: 1.3cm;
+ border: solid;
+ border-radius: 20px;
+ text-align: center;
+ font-family: Arial, Helvetica, sans-serif;
+ background-color: cornflowerblue;
+color: rgb(3, 57, 68);
+text-shadow: 15px 8px 20px;
+ 
+}
+.cuadro{
+    width: 600px;
+    height: 550px;
+    background-image: url(../pngtree-technological-world-number-line-light-photo-picture-image_4875979.jpg) ;
+    background-size: cover;
+    border: solid 2px;
+    border-color: aliceblue;
+    margin-left: 25%;
+    text-align: center;
+    color:rgb(35, 33, 30);
+    font-size: 10mm;
+    
+}
+.moran{
+    margin-top: -37.5px; 
+}
+
+.oficial{
+    margin-top: 0%;
+    background-color: rgba(13, 126, 224, 0.795);
+}
+.des{
+border-style: dotted;
+font-size: medium;
+background-color: rgba(16, 165, 219, 0.763);
+color:black
+
+}
+
+table, th, td{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 5mm;
+    text-shadow: 5xp 5xp grey;
+    border: solid black;
+    background-color: rgba(16, 165, 219, 0.763);
+
+}
